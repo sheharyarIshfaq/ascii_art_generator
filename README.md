@@ -10,6 +10,6 @@
 
 Author: Lord Hypersonic
 
-[Author's Website](www.lordhypersonic.blogspot.com)
+[Author's Website](https://lordhypersonic.blogspot.com/)
 
 Modified By: Sheharyar
